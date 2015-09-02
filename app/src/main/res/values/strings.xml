@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Brofessor2</string>
+
+    <string name="welcome_message">Welcome to Brofessor!</string>
+    <string name="instructions">Click the button to get your new bro name!</string>
+    <string name="action_settings">Settings</string>
+</resources>
