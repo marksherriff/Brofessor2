@@ -46,6 +46,8 @@ public class BrofessorActivity extends AppCompatActivity {
     }
 
     public void getBroName(View view) {
+
+        // New comment!
         ArrayList<String> names = new ArrayList<String>();
         String[] list = {"Brock", "Rock", "Mc", "Awesome", "Sally", "Dude", "Bro", "Star", "Mick"};
         names.addAll(Arrays.asList(list));
